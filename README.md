@@ -1,6 +1,6 @@
-### 👋 Welcome 👋
+### 👋 Welcome! 👋
 
-I am Yongjie Zhuang (CurtisNewbie)
+🍍 Yongjie Zhuang 🍍
 
 - [My Repo🚀](https://github.com/CurtisNewbie/my-repo/blob/main/README.md)
 - [我的项目🚀](https://github.com/CurtisNewbie/my-repo/blob/main/README-CN.md)
