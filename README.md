@@ -1,7 +1,12 @@
-### Hi there 👋
+### 👋 Welcome 👋
+
+I am Yongjie Zhuang (CurtisNewbie)
+
+- [My Repo🚀](https://github.com/CurtisNewbie/my-repo/blob/main/README.md)
+- [我的项目🚀](https://github.com/CurtisNewbie/my-repo/blob/main/README-CN.md)
 
 <!--
-**CurtisNewbie/curtisnewbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CurtisNewbie/curtisnewbie** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
