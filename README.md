@@ -1,3 +1,3 @@
 ### Under the cloud
 
-Code for fun
+Reinventing wheels is fun
